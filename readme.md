@@ -1,8 +1,6 @@
 # Discord-Token-Checker
 Fast Discord Token Checker with GUI
 
-[![Github All Releases](https://img.shields.io/github/downloads/DigitalCord/Discord-Token-Checker/total.svg?label=Downloads%20Count%3A)]()
-
 ## 🔥 Features
 - Display all tokens in a table, with multiple filters and infos
 - Possibility to export with many filters (token type, token creation date...)
