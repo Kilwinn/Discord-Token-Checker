@@ -1,7 +1,6 @@
 # Discord-Token-Checker
-A fast Discord Token Checker with GUI
+Fast Discord Token Checker with GUI
 
-### Download link : https://github.com/DigitalCord/Discord-Token-Checker/releases/download/v1.0/Discord.Token.Checker.exe
 [![Github All Releases](https://img.shields.io/github/downloads/DigitalCord/Discord-Token-Checker/total.svg?label=Downloads%20Count%3A)]()
 
 ## 🔥 Features
@@ -12,6 +11,8 @@ A fast Discord Token Checker with GUI
 - Options to check guilds count, DM history count, friends count, payment methods, and nitro infos
 - Proxyless/Proxy support
 
+## 📥 Download
+- Download link: [Discord.Token.Checker](https://github.com/DigitalCord/Discord-Token-Checker/releases/download/v1.0/Discord.Token.Checker.exe) (1.0)
 
 ## 🖼️ Screenshots
 
